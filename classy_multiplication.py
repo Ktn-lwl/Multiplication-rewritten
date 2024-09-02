@@ -87,8 +87,8 @@ def difficulty():
 def play(mode):
     """
     This play() function always comes in a pair with difficulty(), so the mode
-    argument is always wither a valid mode, or False. In the lattr case, the
-    if block below tries again until the user does things properly
+    argument is always with either a valid mode, or False. In the latter case, 
+    the if block below tries again until the user does things properly.
     """
 
     if not mode:
