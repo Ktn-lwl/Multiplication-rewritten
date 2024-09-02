@@ -159,7 +159,7 @@ def display_stats(mode):
                     f"Total time: {minutes}\n"
                     f"Time per question (avg): {round(int(stats['Time'])/stats['Answered'], 2)}s")
             
-            idk = input(show)
+            idk = input(show) #junk input to keep the show running
             play(difficulty())
     
     except FileNotFoundError:
