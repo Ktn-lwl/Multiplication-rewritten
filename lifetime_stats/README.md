@@ -1,4 +1,4 @@
-Keeping the readme here because I don't wanna alter my code to create
+Keeping a copy of the readme here because I don't wanna alter my code to create
 this directory...
 
 I was going through some of my old code and found a program I
